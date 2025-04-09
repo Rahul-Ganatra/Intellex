@@ -1,4 +1,4 @@
-# 🚀 AlgoForge - Intelligent Document Assistant
+# 🚀 Intellex - Intelligent Document Assistant
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ## 📝 Overview
 
-AlgoForge is an intelligent document assistant platform designed specifically for interns and IT professionals. It leverages cutting-edge AI technology to provide interactive document analysis, comprehension, and documentation generation capabilities. The platform supports various document formats including PDFs and presentations, with role-based access control for enhanced security.
+Intellex is an intelligent document assistant platform designed specifically for interns and IT professionals. It leverages cutting-edge AI technology to provide interactive document analysis, comprehension, and documentation generation capabilities. The platform supports various document formats including PDFs and presentations, with role-based access control for enhanced security.
 
 ## ✨ Key Features
 

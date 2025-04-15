@@ -1,4 +1,4 @@
-# 🚀 AlgoForge - Intelligent Document Assistant
+# 🚀 Intellex - Intelligent Document Assistant
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ## 📝 Overview
 
-AlgoForge is an intelligent document assistant platform designed specifically for interns and IT professionals. It leverages cutting-edge AI technology to provide interactive document analysis, comprehension, and documentation generation capabilities. The platform supports various document formats including PDFs and presentations, with role-based access control for enhanced security.
+Intellex is an intelligent document assistant platform designed specifically for interns and IT professionals. It leverages cutting-edge AI technology to provide interactive document analysis, comprehension, and documentation generation capabilities. The platform supports various document formats including PDFs and presentations, with role-based access control for enhanced security.
 
 ## ✨ Key Features
 
@@ -48,7 +48,7 @@ AlgoForge is an intelligent document assistant platform designed specifically fo
 1. Clone the repository:
 ```bash
 git clone https://github.com/SHREYASH1204/Intellex.git
-cd AlgoForge
+cd Intellex
 ```
 
 2. Create and activate a virtual environment:
@@ -80,7 +80,7 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-AlgoForge/
+Intellex/
 ├── app.py                 # Main application file
 ├── documents/            # Document storage directory
 ├── frontend/            # Frontend assets
@@ -123,7 +123,7 @@ For support, please open an issue in the GitHub repository or contact the develo
 ---
 
 <div align="center">
-Made with ❤️ by the AlgoForge Team
+Made with ❤️ by the Intellex Team
 </div>
 
 The below is the link to the video of the project :
